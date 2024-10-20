@@ -112,3 +112,5 @@ The figure stresses that economic barriers are a key reason for the slow global 
 These figures collectively provide a detailed visual representation of how the DNS operates, the risks it faces, and the solutions being implemented to mitigate security threats. They highlight the importance of DNSSEC, encrypted DNS transport, and economic incentives in ensuring a secure and resilient DNS ecosystem.
 
 ---
+## Part 3
+  [DNS Security: Boxed Highlights](https://github.com/Karthikdude/DNS-Security-Box)
